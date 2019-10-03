@@ -17,7 +17,7 @@ collections:
     folder: "content/home.md"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "blog/{{title}}"
+    preview_path: "home/{{title}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
