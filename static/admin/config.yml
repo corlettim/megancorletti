@@ -32,8 +32,8 @@ collections:
     delete: false
     preview_path: "{{title}}"
     files:
-      - label: "About"
-        name: "about"
+      - label: "About Me"
+        name: "about me"
         file: "content/about.md"
         fields:
           - {label: "Title", name: "title", widget: "string", default: "About"}
