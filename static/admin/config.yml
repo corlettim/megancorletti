@@ -14,10 +14,10 @@ collections:
     name: "posts"
     description: >
       Posts listed in the 'Blog'.
-    folder: "content/home.md"
+    folder: "content/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "home/{{title}}"
+    preview_path: "blog/{{title}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
@@ -25,15 +25,15 @@ collections:
       - {label: "Text", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: true}
-  - label: "Projects"
-    name: "Projects"
+  - label: "Pages"
+    name: "pages"
     description: >
-      Developmental projects.
+      Single pages.
     delete: false
     preview_path: "{{title}}"
     files:
-      - label: "About Me"
-        name: "about me"
+      - label: "About"
+        name: "about"
         file: "content/about.md"
         fields:
           - {label: "Title", name: "title", widget: "string", default: "About"}
