@@ -1,21 +1,33 @@
 ---
-title: About
+title: Experience
 date: 2019-07-09
 menu: main
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
+> She believed she could so she did
 
-## How to use?
+## At Allegheny
 
-### Managing content with [Forestry](https://forestry.io)
+Second semester of my sophomore year I was asked to join a development team in the
+Computer Science department at Allegheny College as an independent study. This development
+team was building and creating an automated testing tool. This tool was going to be used
+to check and grade labs and practical assignments that would be handed out to
+students. The automated testing tool is called GatorGrader! If you would like
+to learn more about GatorGrader, feel free to check out our [GitHub repository](https://github.com/GatorEducator/gatorgrader).
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+Because of GatorGrader, my experience with development and improvement has skyrocketed.
+Listed below are titles and jobs I have acquired because of the independent study
+I was so grateful for.
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
+### Titles
+-Software Engineer (new position title!)
 
-### Deploy with [Netlify](https://www.netlify.com)
+-GatorGrader Developer
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
+### Jobs
+-GatorGrader web Developer
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
+-Creator of Starter and Solution Repositories (HTML and Python)
 
+-Code Reviewer and Approver
+
+-Documentation Expert
