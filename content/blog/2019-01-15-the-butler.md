@@ -1,7 +1,7 @@
 ---
-title: "The butler"
+title: "Megan Corletti"
 date: 2019-02-07T12:37:00.000Z
-image: /images/butler.jpg
+image: /images/megancorletti.jpg
 tags:
   - Cecil
   - SSG
