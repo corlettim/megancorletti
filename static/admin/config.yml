@@ -25,10 +25,10 @@ collections:
       - {label: "Text", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: true}
-  - label: "Pages"
-    name: "pages"
+  - label: "Projects"
+    name: "Projects"
     description: >
-      Single pages.
+      Developmental projects.
     delete: false
     preview_path: "{{title}}"
     files:
