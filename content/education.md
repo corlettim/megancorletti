@@ -3,11 +3,10 @@ title: Education
 date: 2019-07-11
 menu: main
 ---
->
 
 ## College
 
-Allegheny College, Meadeville PA
+Allegheny College, Meadville PA
 August 2017 - (expected) May 2021
 BS Computer Science, Math and Education double minor
 > Alden Scholar 2017-2018 <br>
