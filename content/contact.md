@@ -3,6 +3,7 @@ title: Contact
 date: 2019-07-13
 menu: main
 ---
+> Call me, beep me, if you want to reach me
 
 ## Email
 
