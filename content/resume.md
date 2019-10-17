@@ -8,4 +8,4 @@ menu: main
 Linked below is a look at my résumé! It can give you a better idea of what I
 have done and what I have experience with.
 
-[Resume](CorlettiResume.pdf)
+[Resume](/Users/mcorletti/Desktop/CMPSC480/megancorletti/content/CorlettiResume.pdf)
