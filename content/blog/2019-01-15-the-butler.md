@@ -9,7 +9,7 @@ draft: false
 ---
 Oh hello there! How's it going? My name is Megan Corletti! I am currently a Junior
 at Allegheny College. I am a computer science major with a Math and Education
-double minor. My life is hectic but if you take a peep at my tags below, they will
+double minor. My life is hectic but if you take a peek at my tags below, they will
 give you a hint that I give love and smiles to everything I do. Below is the story
 of just how I got involved with Computer Science and how it became an essential
 part of my career.
@@ -49,4 +49,4 @@ knowledge of its versatility makes me unique and employable.
 
 All of this work I could have never imagined myself doing and I constantly question
 if it is the right thing to do but here I am making impacts on the future of coding
-and that is why I am Megan Corletti, Maybe Coding? 
+and that is why I am Megan Corletti, Maybe Coding?
