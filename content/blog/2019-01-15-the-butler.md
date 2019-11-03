@@ -2,9 +2,6 @@
 title: "Megan Corletti"
 date: 2019-02-07T12:37:00.000Z
 image: /images/megancorletti.jpg
-tags:
-  - love
-  - smiles
 draft: false
 ---
 Oh hello there! How's it going? My name is Megan Corletti! I am currently a Junior
@@ -22,7 +19,7 @@ forced me to do it. Clearly, that happened because I have now completed 4 classe
 and part of 3 classes and will continue on this path to complete the Computer
 Science major. Now, this is my highlight because the person that forced me to keep
 going with Computer Science has made the biggest impact on my learning experience.
-He taught me to fall in  love with coding even if I tried not to. This “he” I speak
+He taught me to fall in love with coding even if I tried not to. This “he” I speak
 of was my TA from day one and he would urge me to try harder and showed me a side
 of coding that I had never seen before. The side that made him fall in love with
 it even though it may have caused him stress, anger, and fatigue. Creating that
