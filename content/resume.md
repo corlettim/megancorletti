@@ -7,4 +7,4 @@ menu: main
 
 Check out my résumé that is linked below!
 
-[Résumé](/images/corlettiresume.jpg)
+[Résumé](/images/corlettiresume.pdf)
