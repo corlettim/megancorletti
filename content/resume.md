@@ -1,11 +1,11 @@
 ---
 title: Résumé
 date: 2019-07-11
+image: /images/CorlettiResume.jpg
 menu: main
 ---
 
 
-Linked below is a look at my résumé! It can give you a better idea of what I
-have done and what I have experience with.
+Check out my résumé that is linked below!
 
 [Résumé](./static/images/CorlettiResume.jpg)
