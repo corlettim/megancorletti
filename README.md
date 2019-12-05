@@ -1,46 +1,29 @@
-# Starter blog
+# megancorletti.com
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
+My site build process started on a smooth note by going to Netlify and finding a template that
+best fit my personality. After connecting and deploying, I went about by finding a
+file that seems easy enough to change and make some edits. This allowed me to
+understand the flow of the website and what pages were connected to what markdown
+or HTML files. The first challenge that I ran into was finding or manipulating the
+CSS code that allowed this template to look so pretty. Sadly it did not come with
+any CSS and the Developer Tools in Google Chrome did not allow for changes. Therefore,
+I was instructed to over ride the color of my page within the pages.html.slim file.
+This worked an allowed me to make my website match a little better and make it
+more Megan Corletti like. Another issue I fought with for about a week,
+was my resume link. I could not get it to work for the life of me but finally I
+realized that I did not need to create a new images folder and there already was one.
 
-![Cecil preview](static/images/cecil-preview.png)
+My audience is anyone that wants to get to know me beyond the computer but maybe
+before the interview. Its been apparent that in the computer science world, Technical
+interviews are first and then if you do good enough, you get the real deal interview.
+While nothing is wrong with that, I am someone that needs that personal connection and
+talking ability to show what I am really capable of. Sometimes what happens in text
+editors or terminals is not accurate of what I can do for you.
 
-## There is a demo?
-
-[demo.cecil.app](https://demo.cecil.app/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5193c3e6-faae-4922-996e-069768d173a9/deploy-status)](https://app.netlify.com/sites/cecil-demo/deploys)
-
-## How to use?
-
-### Managing content with [Forestry](https://forestry.io)
-
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog&engine=hugo)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
-
-#### Write your blog posts
-
-1. Use [Netlify CMS](https://www.netlifycms.org) to manage your content through `https://your-blog.netlify.com/admin/`
-2. Or edit directly content files in `content/blog/` directory
-
-#### Customize your blog
-
-1. Update configuration by editing `config.yml` file
-2. Change templates by copying files from [`themes/hyde/layouts/`](https://github.com/Cecilapp/theme-hyde/tree/master/layouts) to your own `layouts/` directory to _override_ them.
-
-## Need Help?
-
-Read the [Cecil's documentation](https://cecil.app/documentation/).
-
-## License
-
-Starter blog is a free software distributed under the terms of the MIT license.
-
-© [Arnaud Ligny](https://arnaudligny.fr)
-
+The documents I hav completed this semester have helped with my website tremendously.
+I realized that these articles that I have written or read, were really just the puzzle
+pieces. The website brought them together. I was able to use my Developer Narrative,
+as well as understand what skill base to get across from looking at job listings
+and seeing what they have to offer. Also, the resume building helped without a doubt
+since I was able to confidently attach an image of mine that companies can Download
+if that is what they want. 
