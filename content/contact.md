@@ -13,6 +13,10 @@ megcorletti@gmail.com
 
 412-515-5177
 
+## GitHub
+
+[Megan's GitHub](https://github.com/corlettim)
+
 ## LinkedIn
 
 [Megan's LinkedIn Profile](https://www.linkedin.com/in/megan-corletti-2256b8191/)
