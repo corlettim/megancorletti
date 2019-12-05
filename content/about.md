@@ -12,7 +12,8 @@ Computer Science department at Allegheny College as an independent study. This d
 team was building and creating an automated testing tool. This tool was going to be used
 to check and grade labs and practical assignments that would be handed out to
 students. The automated testing tool is called GatorGrader! If you would like
-to learn more about GatorGrader, feel free to check out our [GitHub repository](https://github.com/GatorEducator/gatorgrader)!
+to learn more about GatorGrader, feel free to check out our [GitHub repository](https://github.com/GatorEducator/gatorgrader)
+or even our [GatorGrader Website](https://www.gatorgrader.org)!
 
 Because of GatorGrader, my experience with development and improvement has skyrocketed.
 Listed below are titles and jobs I have acquired because of the independent study
@@ -52,4 +53,4 @@ As mentioned, as side from coaching, I have guarded and trained. I have bee the
 Head Guard at a swim pool which allowed me to maintain the pool facility, finances,
 and trained new guards. This position has given me a lot of responsibility and
 the means for knowing how to work under pressure and upholding maturity in a
-public setting. 
+public setting.
