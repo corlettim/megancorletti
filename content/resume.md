@@ -1,5 +1,5 @@
 ---
-title: Résumé
+title: [Résumé](/images/corlettiresume.jpg)
 date: 2019-07-11
 menu: main
 ---
